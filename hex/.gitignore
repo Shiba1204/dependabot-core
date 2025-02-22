@@ -1,8 +1,0 @@
-/.bundle/
-!.bundle/config
-/.env
-/tmp
-/deps
-/helpers/deps/
-/helpers/install-dir
-/dependabot-*.gem

@@ -1,8 +1,0 @@
-<Project>
-  <!-- The following properties enable target framework and dependency discovery when OS-specific workloads are required -->
-  <PropertyGroup>
-    <DesignTimeBuild>true</DesignTimeBuild>
-    <EnableWindowsTargeting>true</EnableWindowsTargeting>
-    <TargetPlatformVersion Condition="$(TargetPlatformVersion) == '' AND $(TargetFramework.Contains('-'))">1.0</TargetPlatformVersion>
-  </PropertyGroup>
-</Project>

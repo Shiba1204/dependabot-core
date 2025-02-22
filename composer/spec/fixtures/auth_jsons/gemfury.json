@@ -1,8 +1,0 @@
-{
-    "http-basic": {
-        "php.fury.io": {
-            "username": "user",
-            "password": "pass"
-        }
-    }
-}

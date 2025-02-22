@@ -1,5 +1,0 @@
-defmodule DependabotTest.Version do
-  def version() do
-    String.trim(File.read!("VERSION"))
-  end
-end

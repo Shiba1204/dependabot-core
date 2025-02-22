@@ -1,3 +1,0 @@
---index-url $PIP_INDEX_URL
-psycopg2==2.6.1
-luigi==2.2.0

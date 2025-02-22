@@ -1,2 +1,0 @@
--c constraints.txt
-requests==2.4.1

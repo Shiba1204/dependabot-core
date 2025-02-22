@@ -1,6 +1,0 @@
-pluginManagement {
-  includeBuild './plugins/settings-plugins'
-}
-
-includeBuild './plugins/lint-plugins'
-includeBuild './publishing'

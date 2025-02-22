@@ -1,1 +1,0 @@
-- if it's uploaded, call it attachment on the serializers and fields
